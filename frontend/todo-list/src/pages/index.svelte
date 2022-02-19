@@ -5,8 +5,8 @@
 </script>
 
 <main>
-  <h1>Hello {username}!</h1>
-  <h2>TODO List</h2>
+  <h1>TODO List</h1>
+  <h2>Hello {username}!</h2>
   <List />
 </main>
 
@@ -14,7 +14,7 @@
   main {
     text-align: center;
     padding: 1em;
-    max-width: 240px;
+    /* max-width: 1240px; */
     margin: 0 auto;
   }
 
